@@ -12,7 +12,7 @@ body{
     background-color: #121214;
     background-image: url(./assets/background-blue.svg);
     background-position-x: center;
-    background-position-y: 55.6%;
+    background-position-y: -715px;
 }
 
 body *{
@@ -26,6 +26,7 @@ body *{
 
 header{
     margin-bottom: 63px;
+    text-align: center;
 }
 
 .card{
@@ -49,6 +50,12 @@ header{
     margin-inline: auto;
     margin-bottom: 53px;
     color: #F7DD43;
+}
+
+#cards{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
 }
 
 .card h2 span{
