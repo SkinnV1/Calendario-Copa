@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="./Readme/Calendário-Copa.png">
+    <img src="./Calendário-Copa.png">
 </p>
 
 ## 💻 Tecnologias
